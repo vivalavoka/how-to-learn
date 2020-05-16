@@ -129,6 +129,41 @@
   font-weight: bolder;
 }
 
+.digits {
+  margin-top: 100px;
+  margin: auto;
+  width: 1100px;
+}
+
+.section-title {
+  border: 1px solid red;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.section-subtitle {
+  border: 1px solid red;
+  margin-top: 20px;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.table {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.table__cell {
+  border: 1px solid red;
+  width: 250px;
+  margin-top: 60px;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
