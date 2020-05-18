@@ -296,11 +296,6 @@ h1, h2, h3, h4, p {
   justify-content: space-between;
 }
 
-.footer__column-links {
-  display: flex;
-  flex-direction: column;
-}
-
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
@@ -321,10 +316,14 @@ h1, h2, h3, h4, p {
 }
 
 .footer__column-links {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
   padding-bottom: 16px;
 }
 
 .footer__column-link {
+  height: 10px;
   text-decoration: none;
   color: #ffffff;
   line-height: 30px;
@@ -333,9 +332,6 @@ h1, h2, h3, h4, p {
 }
 
 .footer__social-icon {
-  text-decoration: none;
-  color: #ffffff;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
+  width: 16px;
+  height: 16px;
 }
