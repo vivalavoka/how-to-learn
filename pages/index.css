@@ -30,6 +30,8 @@
 
 @import url(../blocks/digits/digits.css);
 
+@import url(../blocks/khan/khan.css);
+
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
