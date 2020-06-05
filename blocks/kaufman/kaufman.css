@@ -1,4 +1,6 @@
 @import url(./__title/kaufman__title.css);
+@import url(./__subtitle/kaufman__subtitle.css);
+@import url(./__table/kaufman__table.css);
 @import url(./__triangle/kaufman__triangle.css);
 
 .kaufman {
