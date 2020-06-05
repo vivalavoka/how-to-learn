@@ -1,3 +1,6 @@
+@import url(./__title/kaufman__title.css);
+@import url(./__triangle/kaufman__triangle.css);
+
 .kaufman {
   padding-top: 90px;
   padding-bottom: 90px;
