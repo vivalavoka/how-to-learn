@@ -1,8 +1,6 @@
 # How to Learn
 
-## GitHub Page
-
-- https://vivalavoka.github.io/how-to-learn/
+<a href="https://vivalavoka.github.io/how-to-learn/" target="_blank">Github Pages</a>
 
 ## Описание
 Проект создан для изучения расширенных возможностей `HTML` и `CSS` технологий.
